@@ -1,4 +1,4 @@
-# Spring Boot CRUD Demo
+# Spring Boot MVC CRUD 
 
 ## Overview
 
